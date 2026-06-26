@@ -70,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/GowthamR07/LeetCode-AutoSync/tree/master/0148-sort-list) |
+## Database
+|  |
+| ------- |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/GowthamR07/LeetCode-AutoSync/tree/master/0570-managers-with-at-least-5-direct-reports) |
 <!---LeetCode Topics End-->
